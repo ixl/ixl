@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ixl
-- 👀 I’m interested in Go programming, FreeBSD and fun projects.
+- 👀 I’m interested in Go, FreeBSD and security.
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ... on here.
