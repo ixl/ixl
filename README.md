@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ixl
-- 👀 I’m interested in Go, FreeBSD and security.
-- 🌱 I’m currently learning lots of things.
+- 👀 I’m interested in Rust and writing eBPF security tools.
+- 🌱 I still think there is hope for humanity.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me ... on here.
 
